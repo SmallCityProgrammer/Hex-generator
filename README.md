@@ -1,6 +1,8 @@
 <b>HexColor Generator</b>
-<br>
+
+![Screenshot_2](https://github.com/SmallCityProgrammer/Hex-generator/assets/130911203/143fd87b-8e9a-466f-9baa-35cb6691cbe8)<br>
 <a href="https://hex-color-generator.vercel.app/">Link do Projeto</a>
+<br>
 
 <b>Introdução</b><br>
 O programa HexColor Generator é uma aplicação que gera cores aleatórias em formato hexadecimal. Ele permite que os usuários obtenham combinações de cores únicas para uso em projetos de design, desenvolvimento web e muito mais.
@@ -57,6 +59,3 @@ Não são necessárias configurações adicionais para utilizar o programa HexCo
 Atualmente, o programa HexColor Generator não possui um processo formal de contribuição estabelecido. No entanto, você pode entrar em contato com o desenvolvedor para fornecer sugestões, relatar problemas ou colaborar de outras formas.
 
 <b>Documentado pelo ChatGPT</b><br>
-
-
-![Screenshot_2](https://github.com/SmallCityProgrammer/Hex-generator/assets/130911203/143fd87b-8e9a-466f-9baa-35cb6691cbe8)
