@@ -58,4 +58,4 @@ Não são necessárias configurações adicionais para utilizar o programa HexCo
 <b>Contribuição</b><br>
 Atualmente, o programa HexColor Generator não possui um processo formal de contribuição estabelecido. No entanto, você pode entrar em contato com o desenvolvedor para fornecer sugestões, relatar problemas ou colaborar de outras formas.
 
-<b>Documentado pelo ChatGPT</b><br>
+<b>Documentado com auxilio do ChatGPT</b><br>
